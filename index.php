@@ -17,9 +17,9 @@
                 <img src="assets/localizacao.png" alt="ender" class="address-icon">Mirassol, São Paulo, Brasil</h3>
             </div>
             <div class="socials">
-                <a href="#" target="_blank"><img src="assets/github.png" alt="github"></a>
+                <a href="https://github.com/kauevette" target="_blank"><img src="assets/github.png" alt="github"></a>
                 <a href="#" target="_blank"><img src="assets/linkedin.png" alt="linkedin"></a>
-                <a href="#" target="_blank"><img src="assets/instagram.png" alt="instagram"></a>
+                <a href="https://instagram.com/kaue_vette?igshid=ZDdkNTZiNTM=" target="_blank"><img src="assets/instagram.png" alt="instagram"></a>
             </div>
         </div>
     </div>
