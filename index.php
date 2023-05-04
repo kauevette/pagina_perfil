@@ -18,7 +18,7 @@
             </div>
             <div class="socials">
                 <a href="https://github.com/kauevette" target="_blank"><img src="assets/github.png" alt="github"></a>
-                <a href="#" target="_blank"><img src="assets/linkedin.png" alt="linkedin"></a>
+                <a href="https://www.linkedin.com/in/kau%C3%AA-vette-588496267/" target="_blank"><img src="assets/linkedin.png" alt="linkedin"></a>
                 <a href="https://instagram.com/kaue_vette?igshid=ZDdkNTZiNTM=" target="_blank"><img src="assets/instagram.png" alt="instagram"></a>
             </div>
         </div>
